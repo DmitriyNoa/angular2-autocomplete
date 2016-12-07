@@ -2,4 +2,4 @@
 
 This project is in development
 
-Easy and cool autocomplete component for Angular
+Easy and cool autocomplete component for Angular.
